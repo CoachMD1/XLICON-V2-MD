@@ -57,7 +57,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'XLICON-V2'
 global.premium = 'true'
-global.packname = 'XLICON TEAM' 
+global.packname = 'COACH MD' 
 global.author = '@XLICON-V2' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
